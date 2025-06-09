@@ -1,0 +1,10 @@
+11:49:44.631 [main] INFO  AppHooks.Hooks - Scenario passed: User empties cart after login
+11:49:44.908 [main] INFO  AppHooks.Hooks - Driver closed
+11:52:30.259 [main] INFO  AppHooks.Hooks - Scenario test started: User login and add the product to cart
+11:52:36.500 [main] INFO  StepDefinitions.BaseStep - item selected and added to cart
+11:52:46.087 [main] INFO  StepDefinitions.BaseStep - Home Page Verified
+11:52:46.089 [main] INFO  AppHooks.Hooks - Scenario passed: User login and add the product to cart
+11:52:46.940 [main] INFO  AppHooks.Hooks - Driver closed
+11:52:50.153 [main] INFO  AppHooks.Hooks - Scenario test started: User empties cart after login
+11:53:04.180 [main] ERROR AppHooks.Hooks - Scenario failed: User empties cart after login
+11:53:04.608 [main] INFO  AppHooks.Hooks - Driver closed

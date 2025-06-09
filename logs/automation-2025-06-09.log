@@ -1,0 +1,62 @@
+10:05:21.236 [main] INFO  AppHooks.Hooks - Scenario test started: User Login valid Credentials
+10:05:28.321 [main] INFO  AppHooks.Hooks - Driver closed
+10:08:22.699 [main] INFO  AppHooks.Hooks - Scenario test started: User Login valid Credentials
+10:08:28.310 [main] INFO  AppHooks.Hooks - Driver closed
+10:13:20.493 [main] INFO  AppHooks.Hooks - Scenario test started: User Login valid Credentials
+10:13:31.030 [main] INFO  AppHooks.Hooks - Driver closed
+10:20:50.892 [main] INFO  AppHooks.Hooks - Scenario test started: User Login valid Credentials
+10:20:58.414 [main] INFO  AppHooks.Hooks - Driver closed
+10:24:39.232 [main] INFO  AppHooks.Hooks - Scenario test started: User Login valid Credentials
+10:24:45.581 [main] INFO  AppHooks.Hooks - Driver closed
+10:26:03.747 [main] INFO  AppHooks.Hooks - Scenario test started: User Login valid Credentials
+10:26:24.513 [main] INFO  AppHooks.Hooks - Driver closed
+10:31:55.534 [main] INFO  AppHooks.Hooks - Scenario test started: User Login valid Credentials
+10:32:16.162 [main] INFO  AppHooks.Hooks - Driver closed
+10:37:34.143 [main] INFO  AppHooks.Hooks - Scenario test started: User Login valid Credentials
+10:37:34.615 [main] INFO  AppHooks.Hooks - Driver closed
+10:37:44.282 [main] INFO  AppHooks.Hooks - Scenario test started: User Login valid Credentials
+10:38:05.095 [main] INFO  AppHooks.Hooks - Driver closed
+10:40:39.194 [main] INFO  AppHooks.Hooks - Scenario test started: User Login valid Credentials
+10:40:59.300 [main] ERROR AppHooks.Hooks - Scenario failed: User Login valid Credentials
+10:41:00.805 [main] INFO  AppHooks.Hooks - Driver closed
+11:16:04.732 [main] INFO  AppHooks.Hooks - Scenario test started: Register new user
+11:16:10.119 [main] INFO  StepDefinitions.RegistrationStep1 - registeration success message verified
+11:16:10.169 [main] INFO  AppHooks.Hooks - Scenario passed: Register new user
+11:16:11.789 [main] INFO  AppHooks.Hooks - Driver closed
+11:21:59.808 [main] INFO  AppHooks.Hooks - Scenario test started: User empties cart after login
+11:22:11.791 [main] ERROR AppHooks.Hooks - Scenario failed: User empties cart after login
+11:22:13.786 [main] INFO  AppHooks.Hooks - Driver closed
+11:23:35.464 [main] INFO  AppHooks.Hooks - Scenario test started: User empties cart after login
+11:23:53.174 [main] ERROR AppHooks.Hooks - Scenario failed: User empties cart after login
+11:23:54.756 [main] INFO  AppHooks.Hooks - Driver closed
+11:25:49.509 [main] INFO  AppHooks.Hooks - Scenario test started: User empties cart after login
+11:26:04.215 [main] ERROR AppHooks.Hooks - Scenario failed: User empties cart after login
+11:26:06.130 [main] INFO  AppHooks.Hooks - Driver closed
+11:27:21.847 [main] INFO  AppHooks.Hooks - Scenario test started: User login and add the product to cart
+11:27:31.240 [main] ERROR AppHooks.Hooks - Scenario failed: User login and add the product to cart
+11:27:32.427 [main] INFO  AppHooks.Hooks - Driver closed
+11:27:36.274 [main] INFO  AppHooks.Hooks - Scenario test started: User empties cart after login
+11:27:48.690 [main] INFO  AppHooks.Hooks - Driver closed
+11:29:28.107 [main] INFO  AppHooks.Hooks - Scenario test started: User login and add the product to cart
+11:29:37.658 [main] ERROR AppHooks.Hooks - Scenario failed: User login and add the product to cart
+11:29:40.622 [main] INFO  AppHooks.Hooks - Driver closed
+11:29:42.873 [main] INFO  AppHooks.Hooks - Scenario test started: User empties cart after login
+11:29:43.009 [main] INFO  AppHooks.Hooks - Driver closed
+11:42:47.571 [main] INFO  AppHooks.Hooks - Scenario test started: User login and add the product to cart
+11:42:56.495 [main] ERROR AppHooks.Hooks - Scenario failed: User login and add the product to cart
+11:42:57.504 [main] INFO  AppHooks.Hooks - Driver closed
+11:43:00.504 [main] INFO  AppHooks.Hooks - Scenario test started: User empties cart after login
+11:43:08.359 [main] INFO  AppHooks.Hooks - Driver closed
+11:47:11.379 [main] INFO  AppHooks.Hooks - Scenario test started: User login and add the product to cart
+11:47:20.116 [main] ERROR AppHooks.Hooks - Scenario failed: User login and add the product to cart
+11:47:21.010 [main] INFO  AppHooks.Hooks - Driver closed
+11:48:05.978 [main] INFO  AppHooks.Hooks - Scenario test started: User login and add the product to cart
+11:48:15.851 [main] ERROR AppHooks.Hooks - Scenario failed: User login and add the product to cart
+11:48:16.676 [main] INFO  AppHooks.Hooks - Driver closed
+11:48:55.888 [main] INFO  AppHooks.Hooks - Scenario test started: User empties cart after login
+11:49:00.954 [main] INFO  AppHooks.Hooks - Scenario passed: User empties cart after login
+11:49:02.035 [main] INFO  AppHooks.Hooks - Driver closed
+11:49:28.269 [main] INFO  AppHooks.Hooks - Scenario test started: User login and add the product to cart
+11:49:35.787 [main] ERROR AppHooks.Hooks - Scenario failed: User login and add the product to cart
+11:49:36.375 [main] INFO  AppHooks.Hooks - Driver closed
+11:49:39.255 [main] INFO  AppHooks.Hooks - Scenario test started: User empties cart after login
